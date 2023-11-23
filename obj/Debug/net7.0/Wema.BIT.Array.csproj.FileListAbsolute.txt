@@ -1,0 +1,14 @@
+C:\BIT\Wema.BIT.Array\bin\Debug\net7.0\Wema.BIT.Array.exe
+C:\BIT\Wema.BIT.Array\bin\Debug\net7.0\Wema.BIT.Array.deps.json
+C:\BIT\Wema.BIT.Array\bin\Debug\net7.0\Wema.BIT.Array.runtimeconfig.json
+C:\BIT\Wema.BIT.Array\bin\Debug\net7.0\Wema.BIT.Array.dll
+C:\BIT\Wema.BIT.Array\bin\Debug\net7.0\Wema.BIT.Array.pdb
+C:\BIT\Wema.BIT.Array\obj\Debug\net7.0\Wema.BIT.Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIT\Wema.BIT.Array\obj\Debug\net7.0\Wema.BIT.Array.AssemblyInfoInputs.cache
+C:\BIT\Wema.BIT.Array\obj\Debug\net7.0\Wema.BIT.Array.AssemblyInfo.cs
+C:\BIT\Wema.BIT.Array\obj\Debug\net7.0\Wema.BIT.Array.csproj.CoreCompileInputs.cache
+C:\BIT\Wema.BIT.Array\obj\Debug\net7.0\Wema.BIT.Array.dll
+C:\BIT\Wema.BIT.Array\obj\Debug\net7.0\refint\Wema.BIT.Array.dll
+C:\BIT\Wema.BIT.Array\obj\Debug\net7.0\Wema.BIT.Array.pdb
+C:\BIT\Wema.BIT.Array\obj\Debug\net7.0\Wema.BIT.Array.genruntimeconfig.cache
+C:\BIT\Wema.BIT.Array\obj\Debug\net7.0\ref\Wema.BIT.Array.dll
